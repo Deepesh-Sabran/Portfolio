@@ -33,6 +33,7 @@ body {
 ul {
   list-style: none;
 }
+/* ___________________________________________________________________ */
 .section {
   background: var(--bg-black-900);
   min-height: 100vh;
@@ -113,6 +114,7 @@ ul {
 .shadow-dark {
   box-shadow: 0 0 20px rgba(48, 46, 77, 0.25);
 }
+/* _____________________________________________________________________ */
 /* aside */
 .aside {
   width: 270;
@@ -462,6 +464,7 @@ h3.my-profession {
   color: var(--text-black-700);
 }
 
+/* __________________________________________________________________ */
 /* services */
 .services .container {
   padding-bottom: 40px;
@@ -517,6 +520,7 @@ h3.my-profession {
   line-height: 25px;
 }
 
+/* _____________________________________________________________ */
 /* portfolio */
 .portfolio .container {
   padding-bottom: 40px;
@@ -546,6 +550,7 @@ h3.my-profession {
   display: block;
 }
 
+/* __________________________________________________________________ */
 /* contact */
 .contact-title {
   color: var(--skin-color);
@@ -621,6 +626,7 @@ h3.my-profession {
   padding: 0 50px;
 }
 
+/* ______________________________________________________________ */
 /* responsive */
 @media (max-width: 1199px) {
   .aside {
