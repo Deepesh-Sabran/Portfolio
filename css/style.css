@@ -224,8 +224,10 @@ ul {
   color: var(--text-black-900);
   padding: 5px 15px;
 }
-.aside .nav li a.active {
+.aside .nav li a:hover {
   color: var(--skin-color);
+  border-radius: 8px;
+  transition: all 0.15s ease;
 }
 /* .aside .nav li a i {
   margin-right: 15px;
